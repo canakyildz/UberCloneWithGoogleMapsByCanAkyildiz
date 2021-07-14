@@ -1,0 +1,6 @@
+framework module Pods_UberClone_UberCloneUITests {
+  umbrella header "Pods-UberClone-UberCloneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
